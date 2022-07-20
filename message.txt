@@ -1,0 +1,54 @@
+Wifi name: iPhone
+Password: 123456789
+Wifi name: eduroam
+Password: Not found
+Wifi name: CCM
+Password: 29750924
+Wifi name: NANA KWAME
+Password: !MPScranes123
+Wifi name: ADYYRUlOU1RFSU4 2
+Password: 12345678
+Wifi name: Xender_APde05 2
+Password: 12345678
+Wifi name: UCC WIFI
+Password: Not found
+Wifi name: ADYYRUlOU1RFSU4
+Password: Not found
+Wifi name: S6
+Password: Not found
+Wifi name: TEAM SANKOFA
+Password: 111111111
+Wifi name: AndroidShare_1570
+Password: 050cbe775bb5
+Wifi name: AndroidShare_3271
+Password: 3a95a9cff54d
+Wifi name: AndroidShare_7987
+Password: 81835a0e19f5
+Wifi name: AndroidShare_4433
+Password: 16df4114ce1a
+Wifi name: Cobby
+Password: Not found
+Wifi name: Infinix S4
+Password: narutoshippuden1
+Wifi name: VodafoneMobileWiFi-4C0B75
+Password: Pentecost1208
+Wifi name: AndroidShare_8087
+Password: 38d666efd085
+Wifi name: AndroidShare_8393
+Password: 640afbbff352
+Wifi name: Jay
+Password: 123qwe123
+Wifi name: Dollar's MacBook Pro
+Password: Not found
+Wifi name: DESKTOP-FBFVNSO 8000
+Password: 111111111
+Wifi name: Galaxy S6 edge 2
+Password: Not found
+Wifi name: AndroidShare_1870
+Password: 3396812059c8
+Wifi name: Galaxy S6 edge
+Password: 123456789
+Wifi name: Galaxy S6 egde
+Password: 123456789
+Wifi name: Xender_APde05
+Password: Not found

@@ -1,0 +1,55 @@
+The following commands are some features of mine. You can say
+JARVIS COMMANDS
+open youtube
+open google
+what is the time
+take a screenshot
+select all
+copy it
+open notepad
+paste it
+undo
+redo
+scrolldown
+scrollup
+what is your name
+tell me about yourself
+how are you doing
+have you eaten
+search
+find a place
+find someone
+open word
+open excel
+open powerpoint
+open chrome 
+open photoshop
+open gmail
+what's up or how are you
+type something
+hello jarvis
+close browser*
+edit mode*
+send email
+nothing or abort or stop
+go offline
+what can you do
+hello
+what is the weather like
+date
+open camtasia
+open corel draw
+open pycharm
+open file manager
+open firefox
+bye
+pause music
+play song
+next song
+previous song
+turn up volume
+turn down volume
+play music
+play me a song
+open a website
+play video

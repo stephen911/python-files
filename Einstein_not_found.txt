@@ -1,0 +1,86 @@
+Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Wifi name: Infinix S4 2
+Password: Not found
+Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Wifi name: Infinix S4 2
+Password: Not found
+Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Wifi name: Infinix S4 2
+Password: Not found
+Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Wifi name: Infinix S4 2
+Password: Not found
+Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Wifi name: Infinix S4 2
+Password: Not found
+Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Wifi name: Infinix S4 2
+Password: Not found
+Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Wifi name: Infinix S4 2
+Password: Not found
+Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Wifi name: Infinix S4 2
+Password: Not found
+Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Wifi name: Infinix S4 2
+Password: Not found
+Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Wifi name: Infinix S4 2
+Password: Not found
+Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Wifi name: Infinix S4 2
+Password: Not found
+Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Wifi name: Infinix S4 2
+Password: Not found
+Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Wifi name: Infinix S4 2
+Password: Not found
+Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Wifi name: Infinix S4 2
+Password: Not found
+Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Wifi name: Infinix S4 2
+Password: Not found
+Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Wifi name: Infinix S4 2
+Password: Not found
+Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Wifi name: Infinix S4 2
+Password: Not found
+Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Wifi name: Infinix S4 2
+Password: Not found
+Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Wifi name: Infinix S4 2
+Password: Not found
+Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Wifi name: Infinix S4 2
+Password: Not found
+Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Wifi name: Infinix S4 2
+Password: Not found
+Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.Wifi name: Infinix S4 2
+Password: Not found
+Frederick's iPhone is causing an error
+ Command '['netsh', 'wlan', 'show', 'profile', "Frederick's iPhone", 'key=clear']' returned non-zero exit status 1.

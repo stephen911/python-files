@@ -1,0 +1,10 @@
+import win32clipboard
+import win32clipboard
+import win32clipboard
+import win32clipboard
+import win32clipboard
+import win32clipboard
+        guess = input("{} attempt(s) left, Next guess\n>>".format(allowed_errors))
+
+        guess = input("{} attempt(s) left, Next guess\n>>".format(allowed_errors))
+
